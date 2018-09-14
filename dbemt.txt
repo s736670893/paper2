@@ -1,1 +1,8 @@
 http://dbemt.bioinfo-minzhao.org/download.cgi
+
+
+emt 2.0 如果只是增加100多个gene也许卖点还不是太足。editor喜欢也可以不喜欢也可以很容易拒绝
+我建议把上面两篇文章里面的表达数据都整理进来
+还有两篇文章里面提到的其它gene list尽量也整合进来：
+https://onlinelibrary.wiley.com/doi/abs/10.1002/dvdy.24485
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0156839
