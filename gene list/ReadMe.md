@@ -1,8 +1,9 @@
 ## 针对文件的解释
 ====
-    dbEMT.2018.June.zc.xlsx, S4 Table.579 genes identified in current analysis..XLSX, 
-    S5 Table.A 773-gene list combined from three previous lists..XLSX这三个文件，第一个是
-    自己的，后面两个是从http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0156839
+    dbEMT.2018.June.zc.xlsx 
+    S4 Table.579 genes identified in current analysis..XLSX, 
+    S5 Table.A 773-gene list combined from three previous lists..XLSX
+    这三个文件，第一个是自己的，后面两个是从http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0156839
     下载
  
 ====   
