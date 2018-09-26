@@ -1,7 +1,5 @@
 5243	protein coding
 8714	protein coding
-5243	protein coding
-8714	protein coding
 9429	protein coding
 252837	protein coding
 59	protein coding
@@ -40,3 +38,1202 @@
 360	protein coding
 362	protein coding
 366	protein coding
+367	protein coding
+11835	protein coding
+23365	protein coding
+9181	protein coding
+25852	protein coding
+408	protein coding
+417	protein coding
+429	protein coding
+430	protein coding
+472	protein coding
+11920	protein coding
+84833	protein coding
+6310	protein coding
+6790	protein coding
+8312	protein coding
+558	protein coding
+9531	protein coding
+116071	protein coding
+27113	protein coding
+10286	protein coding
+596	protein coding
+604	protein coding
+627	protein coding
+8553	protein coding
+332	protein coding
+648	protein coding
+650	protein coding
+652	protein coding
+654	protein coding
+655	protein coding
+12162	protein coding
+85272	protein coding
+12181	protein coding
+673	protein coding
+672	protein coding
+23476	protein coding
+57261	protein coding
+29117	protein coding
+55290	protein coding
+25855	protein coding
+682	protein coding
+55727	protein coding
+8945	protein coding
+11149	protein coding
+718	protein coding
+728	protein coding
+768	protein coding
+826	protein coding
+829	protein coding
+29775	protein coding
+857	protein coding
+12389	protein coding
+284119	protein coding
+868	protein coding
+25776	protein coding
+6362	protein coding
+6363	protein coding
+6347	protein coding
+6364	protein coding
+6366	protein coding
+6367	protein coding
+6370	protein coding
+6348	protein coding
+6352	protein coding
+12428	protein coding
+595	protein coding
+12443	protein coding
+894	protein coding
+12444	protein coding
+17151	protein coding
+23582	protein coding
+901	protein coding
+729230	protein coding
+1234	protein coding
+1235	protein coding
+1236	protein coding
+10803	protein coding
+929	protein coding
+977	protein coding
+100133941	protein coding
+29126	protein coding
+60533	protein coding
+948	protein coding
+960	protein coding
+967	protein coding
+3732	protein coding
+998	protein coding
+999	protein coding
+12550	protein coding
+100337618	protein coding
+1009	protein coding
+1000	protein coding
+12558	protein coding
+495284	protein coding
+1003	protein coding
+414842	protein coding
+541393	protein coding
+5218	protein coding
+1018	protein coding
+1020	protein coding
+140908	protein coding
+8999	protein coding
+1026	protein coding
+1045	protein coding
+634	protein coding
+1048	protein coding
+4680	protein coding
+1050	protein coding
+1051	protein coding
+12608	protein coding
+57214	protein coding
+22897	protein coding
+253782	protein coding
+1080	protein coding
+1111	protein coding
+1129	protein coding
+57650	protein coding
+1153	protein coding
+66197	protein coding
+9076	protein coding
+1366	protein coding
+6249	protein coding
+1196	protein coding
+1272	protein coding
+12877	protein coding
+29034	ncRNA
+1385	protein coding
+1387	protein coding
+828475	protein coding
+51232	protein coding
+1398	protein coding
+1399	protein coding
+1400	protein coding
+1401	protein coding
+1410	protein coding
+12955	protein coding
+1437	protein coding
+1460	protein coding
+13001	protein coding
+1464	protein coding
+1487	protein coding
+1490	protein coding
+14219	protein coding
+1491	protein coding
+115908	protein coding
+1499	protein coding
+12387	protein coding
+84353	protein coding
+395964	protein coding
+1500	protein coding
+1514	protein coding
+8452	protein coding
+8451	protein coding
+99375	protein coding
+1523	protein coding
+6376	protein coding
+6387	protein coding
+10563	protein coding
+9547	protein coding
+6374	protein coding
+3576	protein coding
+4283	protein coding
+3579	protein coding
+7852	protein coding
+12767	protein coding
+51706	protein coding
+1545	protein coding
+1577	protein coding
+199974	protein coding
+9420	protein coding
+3491	protein coding
+112597	ncRNA
+69601	protein coding
+153090	protein coding
+13175	protein coding
+780	protein coding
+4921	protein coding
+23405	protein coding
+22943	protein coding
+27122	protein coding
+1746	protein coding
+1786	protein coding
+13433	protein coding
+1789	protein coding
+419287	protein coding
+1856	protein coding
+8445	protein coding
+1869	protein coding
+1871	protein coding
+10969	protein coding
+17494242	None
+24323	protein coding
+8726	protein coding
+1936	protein coding
+2202	protein coding
+1948	protein coding
+1950	protein coding
+51162	protein coding
+353156	protein coding
+1956	protein coding
+13649	protein coding
+112399	protein coding
+1958	protein coding
+10938	protein coding
+30846	protein coding
+10919	protein coding
+9451	protein coding
+1965	protein coding
+1977	protein coding
+1981	protein coding
+1984	protein coding
+56648	protein coding
+1994	protein coding
+2001	protein coding
+2002	protein coding
+13713	protein coding
+64100	protein coding
+27436	protein coding
+2014	protein coding
+2023	protein coding
+2033	protein coding
+2034	protein coding
+23136	protein coding
+4072	protein coding
+1969	protein coding
+2043	protein coding
+2046	protein coding
+2048	protein coding
+2049	protein coding
+2056	protein coding
+2059	protein coding
+2064	protein coding
+55914	protein coding
+2078	protein coding
+2081	protein coding
+54206	protein coding
+2099	protein coding
+2100	protein coding
+54845	protein coding
+2101	protein coding
+2103	protein coding
+2113	protein coding
+2114	protein coding
+2115	protein coding
+2118	protein coding
+18612	protein coding
+60412	protein coding
+23265	protein coding
+2146	protein coding
+7430	protein coding
+50848	protein coding
+2147	protein coding
+2149	protein coding
+14062	protein coding
+14064	protein coding
+2152	protein coding
+10447	protein coding
+355	protein coding
+2194	protein coding
+14114	protein coding
+2203	protein coding
+80204	protein coding
+200933	protein coding
+55294	protein coding
+2220	protein coding
+55612	protein coding
+218952	protein coding
+2246	protein coding
+9965	protein coding
+2247	protein coding
+54250	protein coding
+2254	protein coding
+2260	protein coding
+2263	protein coding
+397667	protein coding
+29109	protein coding
+2289	protein coding
+2316	protein coding
+2319	protein coding
+2332	protein coding
+2335	protein coding
+8061	protein coding
+3169	protein coding
+3170	protein coding
+2296	protein coding
+2303	protein coding
+395794	protein coding
+55810	protein coding
+3607	protein coding
+2305	protein coding
+15218	protein coding
+1112	protein coding
+56458	protein coding
+2309	protein coding
+4303	protein coding
+93986	protein coding
+94234	protein coding
+139628	protein coding
+10023	protein coding
+2492	protein coding
+10468	protein coding
+11167	protein coding
+14314	protein coding
+5045	protein coding
+2526	protein coding
+2535	protein coding
+8324	protein coding
+10146	protein coding
+27041	protein coding
+2597	protein coding
+2623	protein coding
+2625	protein coding
+2627	protein coding
+2662	protein coding
+9518	protein coding
+2688	protein coding
+2705	protein coding
+2706	protein coding
+14619	protein coding
+200504	protein coding
+2735	protein coding
+2736	protein coding
+152007	protein coding
+2739	protein coding
+2744	protein coding
+27165	protein coding
+10672	protein coding
+2801	protein coding
+51280	protein coding
+64083	protein coding
+2719	protein coding
+2821	protein coding
+2854	protein coding
+26585	protein coding
+79977	protein coding
+252973	protein coding
+2896	protein coding
+2932	protein coding
+56637	protein coding
+2934	protein coding
+283120	ncRNA
+3014	protein coding
+3015	protein coding
+9421	protein coding
+3037	protein coding
+594842	ncRNA
+84868	protein coding
+951475	protein coding
+3065	protein coding
+3066	protein coding
+8841	protein coding
+9759	protein coding
+10014	protein coding
+15185	protein coding
+55869	protein coding
+482339	protein coding
+3068	protein coding
+3280	protein coding
+3082	protein coding
+15234	protein coding
+3090	protein coding
+15248	protein coding
+3091	protein coding
+15251	protein coding
+29560	protein coding
+84681	protein coding
+3092	protein coding
+28996	protein coding
+3099	protein coding
+8091	protein coding
+15364	protein coding
+84017	protein coding
+3146	protein coding
+322012	protein coding
+3172	protein coding
+15378	protein coding
+25735	protein coding
+3182	protein coding
+51361	protein coding
+100124700	ncRNA
+3206	protein coding
+3209	protein coding
+3205	protein coding
+10481	protein coding
+3219	protein coding
+3235	protein coding
+3265	protein coding
+94175	protein coding
+3297	protein coding
+15499	protein coding
+3308	protein coding
+3309	protein coding
+3315	protein coding
+3346	protein coding
+3397	protein coding
+609779	protein coding
+21821	protein coding
+305918	protein coding
+3479	protein coding
+3480	protein coding
+3490	protein coding
+93185	protein coding
+8517	protein coding
+3589	protein coding
+3605	protein coding
+54756	protein coding
+50616	protein coding
+51561	protein coding
+246778	protein coding
+3565	protein coding
+3569	protein coding
+3611	protein coding
+16202	protein coding
+55272	protein coding
+51147	protein coding
+8821	protein coding
+54139	protein coding
+3394	protein coding
+15944	protein coding
+3667	protein coding
+8660	protein coding
+100855667	protein coding
+83737	protein coding
+3673	protein coding
+3675	protein coding
+3678	protein coding
+3685	protein coding
+3688	protein coding
+3694	protein coding
+182	protein coding
+3717	protein coding
+3718	protein coding
+3720	protein coding
+3725	protein coding
+3726	protein coding
+8850	protein coding
+84148	protein coding
+3783	protein coding
+23028	protein coding
+23030	protein coding
+5927	protein coding
+10765	protein coding
+7403	protein coding
+22289	protein coding
+23135	protein coding
+16542	protein coding
+100855651	protein coding
+128209	protein coding
+10365	protein coding
+9314	protein coding
+16600	protein coding
+688	protein coding
+11279	protein coding
+4297	protein coding
+387893	protein coding
+3838	protein coding
+16647	protein coding
+3845	protein coding
+16653	protein coding
+3872	protein coding
+16667	protein coding
+3875	protein coding
+3855	protein coding
+3856	protein coding
+3897	protein coding
+3918	protein coding
+16782	protein coding
+3927	protein coding
+3934	protein coding
+16819	protein coding
+16842	protein coding
+51176	protein coding
+3952	protein coding
+3956	protein coding
+3958	protein coding
+3965	protein coding
+55366	protein coding
+107515	protein coding
+8549	protein coding
+9355	protein coding
+16870	protein coding
+3976	protein coding
+10859	protein coding
+79727	protein coding
+83557	protein coding
+140828	ncRNA
+101927574	ncRNA
+642477	None
+100885779	ncRNA
+4000	protein coding
+4001	protein coding
+4015	protein coding
+24914	protein coding
+4017	protein coding
+116844	protein coding
+26018	protein coding
+9208	protein coding
+56413	protein coding
+4052	protein coding
+4067	protein coding
+17096	protein coding
+346389	protein coding
+10459	protein coding
+84944	protein coding
+51438	protein coding
+9863	protein coding
+72289	ncRNA
+378938	ncRNA
+170851	protein coding
+58960	protein coding
+26407	protein coding
+6885	protein coding
+9448	protein coding
+5594	protein coding
+26413	protein coding
+116590	protein coding
+360144	protein coding
+1432	protein coding
+5595	protein coding
+50689	protein coding
+5598	protein coding
+23939	protein coding
+5599	protein coding
+83742	protein coding
+53615	protein coding
+4162	protein coding
+4170	protein coding
+348262	protein coding
+4193	protein coding
+4194	protein coding
+80306	protein coding
+4205	protein coding
+4209	protein coding
+55384	ncRNA
+4233	protein coding
+11343	protein coding
+100507436	protein coding
+9645	protein coding
+79778	protein coding
+406892	ncRNA
+406893	ncRNA
+406894	ncRNA
+406899	ncRNA
+406900	ncRNA
+406902	ncRNA
+406903	ncRNA
+100302213	ncRNA
+406906	ncRNA
+100302242	ncRNA
+406907	ncRNA
+406908	ncRNA
+100130155	ncRNA
+406909	ncRNA
+387236	ncRNA
+100302203	ncRNA
+406915	ncRNA
+387148	ncRNA
+406919	ncRNA
+406920	ncRNA
+406921	ncRNA
+406924	ncRNA
+406925	ncRNA
+442891	ncRNA
+406927	ncRNA
+406933	ncRNA
+406935	ncRNA
+406936	ncRNA
+406937	ncRNA
+406938	ncRNA
+574447	ncRNA
+406940	ncRNA
+406942	ncRNA
+387170	ncRNA
+406944	ncRNA
+406945	ncRNA
+406947	ncRNA
+102465831	ncRNA
+406948	ncRNA
+406949	ncRNA
+406950	ncRNA
+406952	ncRNA
+406995	ncRNA
+406954	ncRNA
+406955	ncRNA
+406958	ncRNA
+406959	ncRNA
+406961	ncRNA
+406962	ncRNA
+406963	ncRNA
+406965	ncRNA
+406966	ncRNA
+406968	ncRNA
+406969	ncRNA
+442920	ncRNA
+406976	ncRNA
+406977	ncRNA
+406979	ncRNA
+387242	ncRNA
+406983	ncRNA
+100314194	ncRNA
+387243	ncRNA
+406984	ncRNA
+406985	ncRNA
+723944	ncRNA
+100314161	ncRNA
+406986	ncRNA
+387200	ncRNA
+406987	ncRNA
+406988	ncRNA
+406989	ncRNA
+406990	ncRNA
+406982	ncRNA
+406991	ncRNA
+100314000	ncRNA
+406993	ncRNA
+406996	ncRNA
+406998	ncRNA
+406999	ncRNA
+407000	ncRNA
+407001	ncRNA
+387140	ncRNA
+407006	ncRNA
+407007	ncRNA
+407008	ncRNA
+407009	ncRNA
+407010	ncRNA
+387217	ncRNA
+407011	ncRNA
+407012	ncRNA
+407013	ncRNA
+407014	ncRNA
+407015	ncRNA
+407016	ncRNA
+407017	ncRNA
+407018	ncRNA
+100049712	ncRNA
+100314230	ncRNA
+407024	ncRNA
+387224	ncRNA
+407026	ncRNA
+100126297	ncRNA
+407027	ncRNA
+723920	ncRNA
+407029	ncRNA
+100314011	ncRNA
+407030	ncRNA
+407031	ncRNA
+387227	ncRNA
+407032	ncRNA
+723964	ncRNA
+407033	ncRNA
+723836	ncRNA
+100314153	ncRNA
+407035	ncRNA
+442900	ncRNA
+442903	ncRNA
+693120	ncRNA
+407040	ncRNA
+723932	ncRNA
+494323	ncRNA
+442918	ncRNA
+494324	ncRNA
+494330	ncRNA
+494331	ncRNA
+494336	ncRNA
+554210	ncRNA
+554213	ncRNA
+574412	ncRNA
+768216	ncRNA
+574436	ncRNA
+664616	ncRNA
+574442	ncRNA
+574444	ncRNA
+574452	ncRNA
+574456	ncRNA
+574511	ncRNA
+574492	ncRNA
+574484	ncRNA
+574495	ncRNA
+693158	ncRNA
+693175	ncRNA
+693197	ncRNA
+693201	ncRNA
+693215	ncRNA
+693223	ncRNA
+693224	ncRNA
+693231	ncRNA
+724025	ncRNA
+724033	ncRNA
+100033819	ncRNA
+407043	ncRNA
+768219	ncRNA
+100126309	ncRNA
+100126306	ncRNA
+407046	ncRNA
+693235	ncRNA
+407050	ncRNA
+407053	ncRNA
+406881	ncRNA
+406884	ncRNA
+100313972	ncRNA
+406890	ncRNA
+4286	protein coding
+17342	protein coding
+57591	protein coding
+223701	protein coding
+4300	protein coding
+23531	protein coding
+4312	protein coding
+4320	protein coding
+4323	protein coding
+4327	protein coding
+4313	protein coding
+81686	protein coding
+4314	protein coding
+4317	protein coding
+4318	protein coding
+54737	protein coding
+9902	protein coding
+124540	protein coding
+10232	protein coding
+4488	protein coding
+9112	protein coding
+57504	protein coding
+92140	protein coding
+10797	protein coding
+2475	protein coding
+57509	protein coding
+4582	protein coding
+17829	protein coding
+4585	protein coding
+4602	protein coding
+4605	protein coding
+4609	protein coding
+23077	protein coding
+4615	protein coding
+4633	protein coding
+7593	protein coding
+109889	protein coding
+10135	protein coding
+79923	protein coding
+388112	protein coding
+342977	protein coding
+4691	protein coding
+8202	protein coding
+10397	protein coding
+57447	protein coding
+283131	ncRNA
+23327	protein coding
+10763	protein coding
+18008	protein coding
+25491	protein coding
+11925	protein coding
+50674	protein coding
+192343	other
+192345	other
+386595	other
+2828293	other
+2829895	other
+4835966	other
+4771	protein coding
+18030	protein coding
+4790	protein coding
+18033	protein coding
+81736	protein coding
+4792	protein coding
+579	protein coding
+4825	protein coding
+114548	protein coding
+4830	protein coding
+9111	protein coding
+4838	protein coding
+4851	protein coding
+18128	protein coding
+395655	protein coding
+4853	protein coding
+4854	protein coding
+4855	protein coding
+4856	protein coding
+27035	protein coding
+4878	protein coding
+101241892	ncRNA
+10062	protein coding
+8856	protein coding
+7182	protein coding
+7026	protein coding
+3164	protein coding
+2494	protein coding
+338475	protein coding
+8829	protein coding
+8828	protein coding
+9423	protein coding
+59277	protein coding
+4915	protein coding
+4916	protein coding
+9891	protein coding
+77976	protein coding
+80224	protein coding
+4925	protein coding
+29419	protein coding
+29789	protein coding
+9480	protein coding
+4988	protein coding
+5008	protein coding
+58495	protein coding
+107586	protein coding
+5029	protein coding
+23569	protein coding
+203569	protein coding
+5058	protein coding
+10298	protein coding
+57144	protein coding
+152559	protein coding
+56288	protein coding
+50855	protein coding
+142	protein coding
+11545	protein coding
+55742	protein coding
+5074	protein coding
+114774	protein coding
+5076	protein coding
+5087	protein coding
+5090	protein coding
+57326	protein coding
+5093	protein coding
+5101	protein coding
+7703	protein coding
+5122	protein coding
+5133	protein coding
+27250	protein coding
+10015	protein coding
+397765	protein coding
+5155	protein coding
+18591	protein coding
+80310	protein coding
+5159	protein coding
+10630	protein coding
+5174	protein coding
+79834	protein coding
+5037	protein coding
+157310	protein coding
+23089	protein coding
+5217	protein coding
+5228	protein coding
+10857	protein coding
+7262	protein coding
+5290	protein coding
+18706	protein coding
+5295	protein coding
+8503	protein coding
+11040	protein coding
+5300	protein coding
+9600	protein coding
+18739	protein coding
+83394	protein coding
+5310	protein coding
+5321	protein coding
+51316	protein coding
+5326	protein coding
+5328	protein coding
+5358	protein coding
+224143	protein coding
+5443	protein coding
+567858	protein coding
+10631	protein coding
+5460	protein coding
+5468	protein coding
+25664	protein coding
+10891	protein coding
+8493	protein coding
+5511	protein coding
+5562	protein coding
+5563	protein coding
+108079	protein coding
+5578	protein coding
+5584	protein coding
+5588	protein coding
+3276	protein coding
+58182	protein coding
+8842	protein coding
+5626	protein coding
+19127	protein coding
+5629	protein coding
+19130	protein coding
+5396	protein coding
+51450	protein coding
+58497	protein coding
+10197	protein coding
+9051	protein coding
+5728	protein coding
+19211	protein coding
+19215	protein coding
+19217	protein coding
+5743	protein coding
+19225	protein coding
+5744	protein coding
+5747	protein coding
+14083	protein coding
+8073	protein coding
+11156	protein coding
+5524	protein coding
+5781	protein coding
+5777	protein coding
+5806	protein coding
+9444	protein coding
+57403	protein coding
+339122	protein coding
+5879	protein coding
+19353	protein coding
+363875	protein coding
+10399	protein coding
+5915	protein coding
+5921	protein coding
+9462	protein coding
+11186	protein coding
+5925	protein coding
+146713	protein coding
+9939	protein coding
+5948	protein coding
+5970	protein coding
+29803	protein coding
+387	protein coding
+117273	protein coding
+388	protein coding
+389	protein coding
+391	protein coding
+192656	protein coding
+196475	ncRNA
+9025	protein coding
+58230	protein coding
+6050	protein coding
+6093	protein coding
+4919	protein coding
+4920	protein coding
+26564	protein coding
+6097	protein coding
+19885	protein coding
+6098	protein coding
+68028	protein coding
+6198	protein coding
+57142	protein coding
+861	protein coding
+860	protein coding
+6273	protein coding
+6275	protein coding
+6277	protein coding
+6279	protein coding
+6280	protein coding
+6286	protein coding
+6299	protein coding
+57167	protein coding
+6304	protein coding
+23314	protein coding
+8796	protein coding
+85477	protein coding
+23513	protein coding
+57758	protein coding
+222663	protein coding
+6382	protein coding
+64218	protein coding
+54910	protein coding
+29843	protein coding
+59343	protein coding
+6318	protein coding
+5054	protein coding
+5176	protein coding
+5274	protein coding
+80854	protein coding
+9869	protein coding
+6423	protein coding
+6464	protein coding
+6469	protein coding
+29499	protein coding
+6477	protein coding
+6478	protein coding
+6493	protein coding
+25942	protein coding
+23411	protein coding
+93759	protein coding
+23410	protein coding
+6495	protein coding
+6497	protein coding
+6498	protein coding
+6500	protein coding
+6502	protein coding
+6581	protein coding
+6513	protein coding
+310801	protein coding
+9368	protein coding
+6586	protein coding
+4087	protein coding
+17126	protein coding
+4088	protein coding
+4089	protein coding
+4092	protein coding
+17131	protein coding
+100338818	protein coding
+8243	protein coding
+9126	protein coding
+64750	protein coding
+34908	protein coding
+6615	protein coding
+20613	protein coding
+116490	protein coding
+6591	protein coding
+20583	protein coding
+333929	protein coding
+9021	protein coding
+6648	protein coding
+64321	protein coding
+6657	protein coding
+6658	protein coding
+6659	protein coding
+6660	protein coding
+6662	protein coding
+6667	protein coding
+20683	protein coding
+728695	protein coding
+20692	protein coding
+25803	protein coding
+8877	protein coding
+6695	protein coding
+8405	protein coding
+6696	protein coding
+25353	protein coding
+6700	protein coding
+10252	protein coding
+10253	protein coding
+100642175	ncRNA
+84654	protein coding
+31554	protein coding
+8878	protein coding
+6714	protein coding
+6720	protein coding
+6722	protein coding
+20807	protein coding
+501099	protein coding
+6717	protein coding
+20383	protein coding
+6480	protein coding
+6489	protein coding
+6772	protein coding
+6774	protein coding
+20848	protein coding
+6776	protein coding
+6777	protein coding
+8614	protein coding
+6786	protein coding
+57620	protein coding
+6794	protein coding
+51765	protein coding
+65975	protein coding
+51684	protein coding
+23512	protein coding
+20997	protein coding
+10460	protein coding
+21345	protein coding
+6901	protein coding
+29110	protein coding
+79718	protein coding
+6862	protein coding
+6929	protein coding
+21423	protein coding
+485079	protein coding
+6925	protein coding
+21677	protein coding
+7015	protein coding
+80312	protein coding
+200424	protein coding
+51270	protein coding
+117270	protein coding
+7039	protein coding
+7040	protein coding
+21803	protein coding
+59086	protein coding
+282089	protein coding
+100008645	protein coding
+7041	protein coding
+7042	protein coding
+21809	protein coding
+7046	protein coding
+7048	protein coding
+7049	protein coding
+7052	protein coding
+7056	protein coding
+8914	protein coding
+7077	protein coding
+7078	protein coding
+7082	protein coding
+7088	protein coding
+21888	protein coding
+21894	protein coding
+7099	protein coding
+56649	protein coding
+116640	protein coding
+7124	protein coding
+79626	protein coding
+8792	protein coding
+8743	protein coding
+8600	protein coding
+8742	protein coding
+9966	protein coding
+7145	protein coding
+282654	protein coding
+7157	protein coding
+403869	protein coding
+7158	protein coding
+7159	protein coding
+94241	protein coding
+8626	protein coding
+488125	protein coding
+7161	protein coding
+7162	protein coding
+10131	protein coding
+100887755	ncRNA
+81559	protein coding
+10626	protein coding
+10155	protein coding
+72169	protein coding
+51592	protein coding
+4591	protein coding
+55223	protein coding
+22059	protein coding
+7224	protein coding
+79054	protein coding
+7227	protein coding
+7248	protein coding
+7249	protein coding
+7284	protein coding
+7286	protein coding
+55000	ncRNA
+285194	ncRNA
+37655	protein coding
+7291	protein coding
+22160	protein coding
+117581	protein coding
+7295	protein coding
+25828	protein coding
+10628	protein coding
+7298	protein coding
+7301	protein coding
+9690	protein coding
+51366	protein coding
+652995	ncRNA
+7347	protein coding
+22228	protein coding
+54315	protein coding
+29128	protein coding
+115426	protein coding
+51720	protein coding
+391627	pseudo
+23326	protein coding
+8239	protein coding
+81839	protein coding
+79805	protein coding
+226841	protein coding
+7415	protein coding
+7421	protein coding
+7422	protein coding
+9686	protein coding
+7428	protein coding
+7431	protein coding
+11326	protein coding
+220001	protein coding
+10810	protein coding
+8839	protein coding
+7471	protein coding
+22408	protein coding
+140584	protein coding
+89780	protein coding
+7474	protein coding
+22418	protein coding
+81029	protein coding
+51741	protein coding
+25937	protein coding
+97064	protein coding
+944566	protein coding
+7494	protein coding
+22803	protein coding
+10413	protein coding
+22601	protein coding
+4904	protein coding
+83719	protein coding
+7532	protein coding
+7534	protein coding
+10009	protein coding
+6935	protein coding
+21417	protein coding
+220930	ncRNA
+9839	protein coding
+24136	protein coding
+311071	protein coding
+100303491	ncRNA
+441951	ncRNA
+7538	protein coding
+9372	protein coding
+23613	protein coding
+7702	protein coding
+155061	protein coding

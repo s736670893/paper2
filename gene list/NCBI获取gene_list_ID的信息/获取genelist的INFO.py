@@ -23,7 +23,7 @@ def get_info(gene_id):
 
 
 if __name__ == "__main__":
-    gene_list = pd.read_table("2018_gene_list_gene_ID.txt", header=None)
+    gene_list = pd.read_table("2018_gene_list_gene_ID_4.txt", header=None)
     result = []
     count = 0
     # with open("2018_gene_list_gene_ID_with_INFO.txt", "w") as fw:
@@ -36,9 +36,12 @@ if __name__ == "__main__":
     for gene_id in gene_list[0].values:
         fw = open("2018_gene_list_gene_ID_with_INFO.txt", "a")
         res = get_info(gene_id)
-        fw.write(str(res[0])+"\t"+res[1]+"\n")
+        if res is not None:
+            fw.write(str(res[0])+"\t"+res[1]+"\n")
+            print(res[0], "  ", res[1])
+        else:
+            fw.write(str(gene_id)+"\t"+"None\n")
         fw.close()
         print("第{}次".format(count))
-        print(res[0], "  ", res[1])
         count += 1
 
