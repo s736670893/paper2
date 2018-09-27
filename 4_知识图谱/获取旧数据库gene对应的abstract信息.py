@@ -4,14 +4,19 @@ import re
 import pandas as pd
 
 
-def get_gene_list():
-    url = "http://dbemt.bioinfo-minzhao.org/browser.cgi"
+def get_gene_list(gene_id):
+    url = "http://dbemt.bioinfo-minzhao.org/literature_highlight.cgi?gene="+str(gene_id)
     response = requests.get(url)
     soup = bs(response.text, "html.parser")
-    target = soup.find("td", class_="content")
-    target2 = target.find_all("a")
-    pass
+    target = soup.find_all("td", class_="content")
+    text = target[7].text
+    text = text.replace("\t", "").replace("\n", "")
+    with open("gene_abstract.txt", "a") as fw:
+        fw.write(str(gene_id)+"\t"+text+"\n")
 
 
 if __name__ == "__main__":
-    gene = get_gene_list()
+    data = pd.read_csv(open("EMT_数据库.csv"), header=None)
+    gene_id = data.iloc[:, 0].values
+    for id in gene_id:
+        gene = get_gene_list(id)
