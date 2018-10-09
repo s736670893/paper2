@@ -1,0 +1,239 @@
+##Databases: KEGG DISEASE, OMIM, NHGRI GWAS Catalog
+##Statistical test method: hypergeometric test / Fisher's exact test
+##FDR correction method: Benjamini and Hochberg
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+Cancers	KEGG DISEASE		9	211	2.14027915261e-09	4.79422530185e-07	6794|207|7157|999|6774|3091|6929|1499|4851	None
+Head and neck cancers	KEGG DISEASE		4	23	4.28834565354e-07	4.80294713196e-05	7157|6774|3091|999	None
+Ovarian cancer, somatic	OMIM	167000	3	6	9.57965133849e-07	7.15280633274e-05	1499|999|207	http://omim.org/entry/167000
+Colorectal cancer	NHGRI GWAS Catalog		5	77	1.3194341858e-06	7.38883144048e-05	4092|999|7040|650|1499	None
+@@Colorectal cancer	OMIM	114500	3	26	4.03144708202e-05	0.000694649343364	7157|1499|207	http://omim.org/entry/114500
+@@Colorectal cancer	KEGG DISEASE	H00020	2	14	0.000606104796903	0.00452558248354	7157|1499	http://www.genome.jp/dbget-bin/www_bget?H00020
+Hepatocellular carcinoma	KEGG DISEASE	H00048	3	12	5.13766347131e-06	0.000230167323515	7157|1499|999	http://www.genome.jp/dbget-bin/www_bget?H00048
+Cancers of the digestive system	KEGG DISEASE		4	48	6.33278985757e-06	0.000236424154683	7157|1499|6794|999	None
+Thyroid cancer	KEGG DISEASE	H00032	3	16	1.08693082753e-05	0.00034781786481	7157|1499|999	http://www.genome.jp/dbget-bin/www_bget?H00032
+Gastric cancer	KEGG DISEASE	H00018	3	20	1.9734294977e-05	0.000517328603398	7157|1499|999	http://www.genome.jp/dbget-bin/www_bget?H00018
+@@Gastric cancer	NHGRI GWAS Catalog		2	12	0.000460998381216	0.00397167836125	5562|4582	None
+Digestive system diseases	KEGG DISEASE		4	66	2.07855242437e-05	0.000517328603398	182|9420|6794|2316	None
+Immune system diseases	KEGG DISEASE		6	243	2.39592713277e-05	0.000536687677741	6352|6774|114548|3569|7852|7040	None
+Breast cancer	OMIM	114480	3	23	2.88284165164e-05	0.000587051390879	7157|999|207	http://omim.org/entry/114480
+@@Breast cancer	KEGG DISEASE	H00031	2	9	0.000279871589708	0.00313456180473	7157|999	http://www.genome.jp/dbget-bin/www_bget?H00031
+@@Breast cancer	NHGRI GWAS Catalog		1	120	0.241974298589	0.247498825954	7015	None
+Cancers of the breast and female genital organs	KEGG DISEASE		3	24	3.23783642603e-05	0.000604396132859	7157|1499|999	None
+Allergies and autoimmune diseases	KEGG DISEASE		4	85	5.35491663272e-05	0.000856786661236	114548|3569|6352|7040	None
+Cancers of endocrine organs	KEGG DISEASE		3	35	9.16996142332e-05	0.00136938090588	7157|1499|999	None
+Endometrial cancer	KEGG DISEASE	H00026	2	6	0.000143117668865	0.00200364736411	7157|1499	http://www.genome.jp/dbget-bin/www_bget?H00026
+Pancreatic cancer	KEGG DISEASE	H00019	2	7	0.000183734727074	0.00242097522733	7157|6794	http://www.genome.jp/dbget-bin/www_bget?H00019
+@@Pancreatic cancer	NHGRI GWAS Catalog		1	107	0.219041372001	0.225070033616	7015	None
+Oral cancer	KEGG DISEASE	H00016	2	8	0.000229326844798	0.00285384517971	7157|6774	http://www.genome.jp/dbget-bin/www_bget?H00016
+Hepatoblastoma, somatic	OMIM	114550	2	9	0.000279871589708	0.00313456180473	7157|1499	http://omim.org/entry/114550
+Penile cancer	KEGG DISEASE	H00025	2	11	0.000395729604304	0.00397167836125	7157|999	http://www.genome.jp/dbget-bin/www_bget?H00025
+Musculoskeletal diseases	KEGG DISEASE		5	268	0.000418403391734	0.00397167836125	1410|7157|7040|2316|7291	None
+Inflammatory bowel disease	NHGRI GWAS Catalog		5	271	0.00043972152189	0.00397167836125	6774|4092|3576|5594|6364	None
+Nervous system diseases	KEGG DISEASE		7	589	0.000442279250572	0.00397167836125	5274|7157|6935|7099|2316|10397|1410	None
+Graft-versus-host disease	KEGG DISEASE	H00084	2	12	0.000460998381216	0.00397167836125	3569|7040	http://www.genome.jp/dbget-bin/www_bget?H00084
+Psoriasis	NHGRI GWAS Catalog		3	64	0.000496395936952	0.00411824777323	6774|57144|6615	None
+Cancers of haematopoietic and lymphoid tissues	KEGG DISEASE		3	66	0.000541125081386	0.00432900065109	7157|6929|4851	None
+Gastrointestinal diseases	KEGG DISEASE		2	14	0.000606104796903	0.00452558248354	2316|6794	None
+Immune response to measles-mumps-rubella vaccine	NHGRI GWAS Catalog		2	15	0.000685898385657	0.00495616898023	2043|7026	None
+Other congenital disorders	KEGG DISEASE		6	462	0.000729881587423	0.00510917111196	207|2316|182|1499|7015|4851	None
+Primary tooth development (time to first tooth eruption)	NHGRI GWAS Catalog		2	19	0.00105283144639	0.00693630129388	84962|8091	None
+Primary tooth development (number of teeth)	NHGRI GWAS Catalog		2	19	0.00105283144639	0.00693630129388	84962|8091	None
+Skeletal diseases	KEGG DISEASE		4	197	0.00119185805593	0.00762789155794	7157|7291|7040|2316	None
+Liver diseases	KEGG DISEASE		2	24	0.00161733031427	0.0100633886221	182|9420	None
+Basal cell carcinoma	NHGRI GWAS Catalog		2	25	0.00174412647027	0.0102811665616	7157|7015	None
+Telomere length	NHGRI GWAS Catalog		2	25	0.00174412647027	0.0102811665616	7852|7015	None
+Cancers of eye, brain, and central nervous system	KEGG DISEASE		2	27	0.00201144518361	0.0115529159264	7157|207	None
+Cancers of the urinary system and male genital organs	KEGG DISEASE		2	37	0.0036171250459	0.020255900257	7157|999	None
+Other nervous and sensory system diseases	KEGG DISEASE		5	449	0.00391469602702	0.0212849113313	1410|7157|7099|2316|6935	None
+Fibrinogen	NHGRI GWAS Catalog		2	39	0.00399092087462	0.0212849113313	114548|3569	None
+Cardiovascular diseases	KEGG DISEASE		4	284	0.00436319336258	0.0226554419968	7157|182|7015|4851	None
+Multiple sclerosis	NHGRI GWAS Catalog		3	141	0.00445017610652	0.0226554419968	7852|6774|5594	None
+Height	NHGRI GWAS Catalog		5	484	0.00534250698262	0.0265938125357	5274|10253|8091|650|4925	None
+Congenital disorders of development	KEGG DISEASE		4	312	0.00603802064017	0.0294025352913	182|2316|4851|207	None
+Axial length	NHGRI GWAS Catalog		2	56	0.00784546234856	0.0373911397038	8091|650	None
+Body mass index	NHGRI GWAS Catalog		4	341	0.00817556812623	0.0381526512558	2475|6387|650|7099	None
+Skin and soft tissue diseases	KEGG DISEASE		3	183	0.00899744349223	0.0395181831815	9420|6352|1499	None
+Skin diseases	KEGG DISEASE		3	183	0.00899744349223	0.0395181831815	9420|6352|1499	None
+Type 2 diabetes	NHGRI GWAS Catalog		3	183	0.00899744349223	0.0395181831815	5460|10253|8091	None
+Coronary heart disease	NHGRI GWAS Catalog		2	74	0.013172553928	0.0482226393597	6387|2335	None
+Dyskeratosis congenita (DC)	KEGG DISEASE	H00507	1	5	0.0136239079219	0.0482226393597	7015	http://www.genome.jp/dbget-bin/www_bget?H00507
+Kaposi's sarcoma	KEGG DISEASE	H00041	1	5	0.0136239079219	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00041
+Uterine leiomyoma	KEGG DISEASE	H01640	1	5	0.0136239079219	0.0482226393597	8091	http://www.genome.jp/dbget-bin/www_bget?H01640
+Fallopian tube cancer	KEGG DISEASE	H01554	1	5	0.0136239079219	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H01554
+Adams-Oliver syndrome (AOS)	KEGG DISEASE	H01413	1	5	0.0136239079219	0.0482226393597	4851	http://www.genome.jp/dbget-bin/www_bget?H01413
+Endometrial cancer, familial	OMIM	608089	1	5	0.0136239079219	0.0482226393597	999	http://omim.org/entry/608089
+Response to antidepressants	NHGRI GWAS Catalog		1	5	0.0136239079219	0.0482226393597	3589	None
+Pediatric bone mineral content (radius)	NHGRI GWAS Catalog		1	5	0.0136239079219	0.0482226393597	10447	None
+Idiopathic pulmonary fibrosis	KEGG DISEASE	H01299	1	6	0.0158766428793	0.0482226393597	7015	http://www.genome.jp/dbget-bin/www_bget?H01299
+@@Idiopathic pulmonary fibrosis	NHGRI GWAS Catalog		1	11	0.0270642171387	0.0501023523891	7015	None
+Myofibrillar myopathies (MFM)	KEGG DISEASE	H00595	1	6	0.0158766428793	0.0482226393597	1410	http://www.genome.jp/dbget-bin/www_bget?H00595
+Cholangiocarcinoma	KEGG DISEASE	H00046	1	6	0.0158766428793	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00046
+Nasopharyngeal cancer	KEGG DISEASE	H00054	1	6	0.0158766428793	0.0482226393597	999	http://www.genome.jp/dbget-bin/www_bget?H00054
+Brain imaging	NHGRI GWAS Catalog		1	6	0.0158766428793	0.0482226393597	2043	None
+Serum prostate-specific antigen levels	NHGRI GWAS Catalog		1	6	0.0158766428793	0.0482226393597	7015	None
+Biomedical quantitative traits	NHGRI GWAS Catalog		1	6	0.0158766428793	0.0482226393597	10447	None
+Gastric adenocarcinoma (histologically verified)	NHGRI GWAS Catalog		1	6	0.0158766428793	0.0482226393597	4582	None
+Testicular germ cell cancer	NHGRI GWAS Catalog		1	6	0.0158766428793	0.0482226393597	7015	None
+Bone mineral density	NHGRI GWAS Catalog		2	85	0.0170133687693	0.0482226393597	182|1499	None
+Blood pressure	NHGRI GWAS Catalog		2	87	0.0177570136307	0.0482226393597	182|6364	None
+Adrenal carcinoma	KEGG DISEASE	H00033	1	7	0.018124289338	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00033
+Laryngeal cancer	KEGG DISEASE	H00055	1	7	0.018124289338	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00055
+Malignant melanoma	KEGG DISEASE	H00038	1	7	0.018124289338	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00038
+Tetralogy of Fallot	KEGG DISEASE	H00549	1	7	0.018124289338	0.0482226393597	182	http://www.genome.jp/dbget-bin/www_bget?H00549
+@@Tetralogy of Fallot	OMIM	187500	1	7	0.018124289338	0.0482226393597	182	http://omim.org/entry/187500
+Chronic myeloid leukemia (CML)	KEGG DISEASE	H00004	1	7	0.018124289338	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00004
+Small cell lung cancer	KEGG DISEASE	H00013	1	7	0.018124289338	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00013
+Osteosarcoma	KEGG DISEASE	H00036	1	7	0.018124289338	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00036
+Irritable bowel syndrome	NHGRI GWAS Catalog		1	7	0.018124289338	0.0482226393597	10252	None
+Birth length	NHGRI GWAS Catalog		1	7	0.018124289338	0.0482226393597	8091	None
+Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS-TEN)	NHGRI GWAS Catalog		1	7	0.018124289338	0.0482226393597	5460	None
+Osteoarthritis biomarkers	NHGRI GWAS Catalog		1	7	0.018124289338	0.0482226393597	7099	None
+Type 2 diabetes nephropathy	NHGRI GWAS Catalog		1	7	0.018124289338	0.0482226393597	8091	None
+Cardiac diseases	KEGG DISEASE		2	90	0.0188979314295	0.0482226393597	182|4851	None
+Mycosis fungoides	KEGG DISEASE	H01463	1	8	0.0203668586643	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H01463
+Osteoporosis	KEGG DISEASE	H01593	1	8	0.0203668586643	0.0482226393597	7040	http://www.genome.jp/dbget-bin/www_bget?H01593
+Malignant pleural mesothelioma	KEGG DISEASE	H00015	1	8	0.0203668586643	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00015
+Bone mineral density (paediatric, upper limb)	NHGRI GWAS Catalog		1	8	0.0203668586643	0.0482226393597	10447	None
+Response to TNF-alpha inhibitors in rheumatoid arthritis	NHGRI GWAS Catalog		1	8	0.0203668586643	0.0482226393597	7026	None
+Adiposity	NHGRI GWAS Catalog		1	8	0.0203668586643	0.0482226393597	10253	None
+Drug-induced Stevens-Johnson syndrome or toxic epidermal necrolysis (SJS/TEN)	NHGRI GWAS Catalog		1	8	0.0203668586643	0.0482226393597	5460	None
+Response to inhaled corticosteroid treatment in asthma (percentage change of FEV1)	NHGRI GWAS Catalog		1	8	0.0203668586643	0.0482226393597	10253	None
+Crohn's disease	NHGRI GWAS Catalog		3	256	0.0216782204157	0.0482226393597	6774|6364|4582	None
+Bladder cancer	KEGG DISEASE	H00022	1	9	0.0226043621998	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00022
+@@Bladder cancer	NHGRI GWAS Catalog		1	25	0.0577246293446	0.073467710075	7015	None
+Acute lymphoblastic leukemia (ALL) (Precursor B lymphoblastic leukemia/lymphoma)	KEGG DISEASE	H00001	1	9	0.0226043621998	0.0482226393597	6929	http://www.genome.jp/dbget-bin/www_bget?H00001
+Acute lymphoblastic leukemia (ALL) (Precursor T lymphoblastic leukemia/lymphoma)	KEGG DISEASE	H00002	1	9	0.0226043621998	0.0482226393597	4851	http://www.genome.jp/dbget-bin/www_bget?H00002
+Multiple myeloma	KEGG DISEASE	H00010	1	9	0.0226043621998	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00010
+@@Multiple myeloma	NHGRI GWAS Catalog		1	17	0.0403233747416	0.0614451424634	5460	None
+Choriocarcinoma	KEGG DISEASE	H00028	1	9	0.0226043621998	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00028
+Esophageal cancer	KEGG DISEASE	H00017	1	9	0.0226043621998	0.0482226393597	7157	http://www.genome.jp/dbget-bin/www_bget?H00017
+Migraine - clinic-based	NHGRI GWAS Catalog		1	9	0.0226043621998	0.0482226393597	4209	None
+Bone mineral density (paediatric, lower limb)	NHGRI GWAS Catalog		1	9	0.0226043621998	0.0482226393597	10447	None
+Urinary bladder cancer	NHGRI GWAS Catalog		1	9	0.0226043621998	0.0482226393597	182	None
+Glioma	NHGRI GWAS Catalog		1	9	0.0226043621998	0.0482226393597	7015	None
+@@Glioma	KEGG DISEASE	H00042	1	11	0.0270642171387	0.0501023523891	7157	http://www.genome.jp/dbget-bin/www_bget?H00042
+Lung adenocarcinoma	NHGRI GWAS Catalog		1	9	0.0226043621998	0.0482226393597	7015	None
+Ovarian cancer	KEGG DISEASE	H00027	1	10	0.0248368112609	0.0496736225217	7157	http://www.genome.jp/dbget-bin/www_bget?H00027
+Other well-defined immunodeficiency syndromes	KEGG DISEASE	H00107	1	10	0.0248368112609	0.0496736225217	6774	http://www.genome.jp/dbget-bin/www_bget?H00107
+Craniosynostosis	KEGG DISEASE	H00458	1	10	0.0248368112609	0.0496736225217	7291	http://www.genome.jp/dbget-bin/www_bget?H00458
+Interstitial lung disease	NHGRI GWAS Catalog		1	10	0.0248368112609	0.0496736225217	7015	None
+Age at smoking initiation in chronic obstructive pulmonary disease	NHGRI GWAS Catalog		1	10	0.0248368112609	0.0496736225217	9547	None
+Very long-chain saturated fatty acid levels (fatty acid 22:0)	NHGRI GWAS Catalog		1	10	0.0248368112609	0.0496736225217	7026	None
+Sex hormone levels	NHGRI GWAS Catalog		1	10	0.0248368112609	0.0496736225217	7157	None
+Distal muscular dystrophies	KEGG DISEASE	H00594	1	11	0.0270642171387	0.0501023523891	1410	http://www.genome.jp/dbget-bin/www_bget?H00594
+Atopic dermatitis	KEGG DISEASE	H01358	1	11	0.0270642171387	0.0501023523891	6352	http://www.genome.jp/dbget-bin/www_bget?H01358
+Meningioma	KEGG DISEASE	H01556	1	11	0.0270642171387	0.0501023523891	207	http://www.genome.jp/dbget-bin/www_bget?H01556
+Allograft rejection	KEGG DISEASE	H00083	1	11	0.0270642171387	0.0501023523891	7040	http://www.genome.jp/dbget-bin/www_bget?H00083
+Birth weight	NHGRI GWAS Catalog		1	11	0.0270642171387	0.0501023523891	8091	None
+Retinopathy in non-diabetics	NHGRI GWAS Catalog		1	11	0.0270642171387	0.0501023523891	9420	None
+Magnesium levels	NHGRI GWAS Catalog		1	11	0.0270642171387	0.0501023523891	4582	None
+Non-small cell lung cancer	KEGG DISEASE	H00014	1	12	0.0292865910999	0.0516550898141	7157	http://www.genome.jp/dbget-bin/www_bget?H00014
+Lung diseases	KEGG DISEASE		1	12	0.0292865910999	0.0516550898141	7015	None
+Prostate cancer	OMIM	176807	1	12	0.0292865910999	0.0516550898141	999	http://omim.org/entry/176807
+@@Prostate cancer	NHGRI GWAS Catalog		2	307	0.157231730074	0.166625821165	7015|8405	None
+Hodgkin's lymphoma	NHGRI GWAS Catalog		1	12	0.0292865910999	0.0516550898141	6929	None
+Paclitaxel-induced neuropathy	NHGRI GWAS Catalog		1	12	0.0292865910999	0.0516550898141	2043	None
+Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy)	NHGRI GWAS Catalog		1	12	0.0292865910999	0.0516550898141	6387	None
+Corneal curvature	NHGRI GWAS Catalog		1	13	0.031503944386	0.0542837195574	2475	None
+Esophageal squamous cell carcinoma	NHGRI GWAS Catalog		1	13	0.031503944386	0.0542837195574	7157	None
+Bone mineral density (paediatric, total body less head)	NHGRI GWAS Catalog		1	13	0.031503944386	0.0542837195574	10447	None
+Myelodysplastic syndrome	KEGG DISEASE	H01481	1	14	0.0337162882136	0.0555327099989	7157	http://www.genome.jp/dbget-bin/www_bget?H01481
+AIDS, resistance to	OMIM	609423	1	14	0.0337162882136	0.0555327099989	6387	http://omim.org/entry/609423
+Schizophrenia	OMIM	181500	1	14	0.0337162882136	0.0555327099989	207	http://omim.org/entry/181500
+@@Schizophrenia	NHGRI GWAS Catalog		1	440	0.637159244096	0.640016460437	6387	None
+Infant length	NHGRI GWAS Catalog		1	14	0.0337162882136	0.0555327099989	8091	None
+Red blood cell count	NHGRI GWAS Catalog		1	14	0.0337162882136	0.0555327099989	7015	None
+Myocardial infarction (early onset)	NHGRI GWAS Catalog		1	14	0.0337162882136	0.0555327099989	6387	None
+Respiratory diseases	KEGG DISEASE		1	15	0.0359236337747	0.0578913234931	7015	None
+Macular degeneration	KEGG DISEASE	H00821	1	15	0.0359236337747	0.0578913234931	7099	http://www.genome.jp/dbget-bin/www_bget?H00821
+Post-traumatic stress disorder (asjusted for relatedness)	NHGRI GWAS Catalog		1	15	0.0359236337747	0.0578913234931	10397	None
+Brain structure	NHGRI GWAS Catalog		1	16	0.0381259922366	0.0597218339929	8091	None
+Eating disorders (purging via substances)	NHGRI GWAS Catalog		1	16	0.0381259922366	0.0597218339929	6364	None
+Optic disc area	NHGRI GWAS Catalog		1	16	0.0381259922366	0.0597218339929	7026	None
+Bone mineral density (paediatric, skull)	NHGRI GWAS Catalog		1	16	0.0381259922366	0.0597218339929	10447	None
+Skin cancers	KEGG DISEASE		1	17	0.0403233747416	0.0614451424634	7157	None
+Aortic root size	NHGRI GWAS Catalog		1	17	0.0403233747416	0.0614451424634	8091	None
+Fat distribution (HIV)	NHGRI GWAS Catalog		1	17	0.0403233747416	0.0614451424634	3956	None
+Primary immunodeficiency	KEGG DISEASE		2	138	0.0409516412333	0.0619808624072	7852|6774	None
+Sex hormone-binding globulin levels	NHGRI GWAS Catalog		1	18	0.0425157924078	0.0626548519694	7026	None
+Bone mineral density (hip)	NHGRI GWAS Catalog		1	18	0.0425157924078	0.0626548519694	1499	None
+Rhegmatogenous retinal detachment	NHGRI GWAS Catalog		1	18	0.0425157924078	0.0626548519694	58497	None
+Migraine	NHGRI GWAS Catalog		1	18	0.0425157924078	0.0626548519694	4209	None
+Others	KEGG DISEASE		2	143	0.0436215935435	0.0638642938154	1499|7015	None
+Allergic rhinitis	KEGG DISEASE	H01360	1	19	0.0447032563286	0.0646093497241	6352	http://www.genome.jp/dbget-bin/www_bget?H01360
+Hematologic diseases	KEGG DISEASE		2	145	0.0447073625323	0.0646093497241	7157|7015	None
+Leukemia, acute myeloid	OMIM	601626	1	20	0.0468857775727	0.0668943578107	7015	http://omim.org/entry/601626
+Polycystic ovary syndrome	NHGRI GWAS Catalog		1	20	0.0468857775727	0.0668943578107	8091	None
+Syndromic X-linked mental retardation with epilepsy or seizures	KEGG DISEASE	H00577	1	21	0.0490633671846	0.0686887140584	2316	http://www.genome.jp/dbget-bin/www_bget?H00577
+Hereditary spastic paraplegia (SPG)	KEGG DISEASE	H00266	1	21	0.0490633671846	0.0686887140584	9420	http://www.genome.jp/dbget-bin/www_bget?H00266
+Fasting insulin-related traits (interaction with BMI)	NHGRI GWAS Catalog		1	21	0.0490633671846	0.0686887140584	10253	None
+Cancers of the lung and pleura	KEGG DISEASE		1	22	0.0512360361842	0.0687237850614	7157	None
+Sleep duration	NHGRI GWAS Catalog		1	22	0.0512360361842	0.0687237850614	10253	None
+Smoking behavior	NHGRI GWAS Catalog		1	22	0.0512360361842	0.0687237850614	7224	None
+Cutaneous malignant melanoma	NHGRI GWAS Catalog		1	22	0.0512360361842	0.0687237850614	999	None
+Plasma omega-6 polyunsaturated fatty acid levels (dihomo-gamma-linolenic acid)	NHGRI GWAS Catalog		1	22	0.0512360361842	0.0687237850614	7099	None
+Cardiac hypertrophy	NHGRI GWAS Catalog		1	22	0.0512360361842	0.0687237850614	182	None
+Orofacial clefts	NHGRI GWAS Catalog		1	22	0.0512360361842	0.0687237850614	10253	None
+Non-syndromic autosomal dominant mental retardation	KEGG DISEASE	H00773	1	23	0.0534037955672	0.0707837290358	1499	http://www.genome.jp/dbget-bin/www_bget?H00773
+HIV-1 susceptibility	NHGRI GWAS Catalog		1	23	0.0534037955672	0.0707837290358	9420	None
+Epithelial ovarian cancer	NHGRI GWAS Catalog		1	24	0.055566656305	0.0727890702475	7015	None
+Optic cup area	NHGRI GWAS Catalog		1	24	0.055566656305	0.0727890702475	650	None
+C-reactive protein	NHGRI GWAS Catalog		1	25	0.0577246293446	0.073467710075	3569	None
+Lung cancer	NHGRI GWAS Catalog		1	25	0.0577246293446	0.073467710075	7015	None
+Melanoma	NHGRI GWAS Catalog		1	25	0.0577246293446	0.073467710075	7015	None
+C-reactive protein levels	NHGRI GWAS Catalog		1	25	0.0577246293446	0.073467710075	114548	None
+Neurodegenerative diseases	KEGG DISEASE		2	170	0.0590874414426	0.0741028206432	5274|10397	None
+Diisocyanate-induced asthma	NHGRI GWAS Catalog		2	170	0.0590874414426	0.0741028206432	7291|2043	None
+Ribosomopathies	KEGG DISEASE		1	26	0.059877725609	0.0741028206432	7015	None
+Serum thyroid-stimulating hormone levels	NHGRI GWAS Catalog		1	26	0.059877725609	0.0741028206432	5218	None
+Vertical cup-disc ratio	NHGRI GWAS Catalog		1	26	0.059877725609	0.0741028206432	650	None
+Congenital disorders of DNA repair systems	KEGG DISEASE		1	27	0.062025955997	0.0759224816575	7157	None
+Waist-hip ratio	NHGRI GWAS Catalog		1	27	0.062025955997	0.0759224816575	6935	None
+Refractive error	NHGRI GWAS Catalog		1	29	0.0663078626182	0.0807226153613	650	None
+Diabetes, type 2	OMIM	125853	1	30	0.0684415605289	0.0819055836561	3569	http://omim.org/entry/125853
+Motion sickness	NHGRI GWAS Catalog		1	30	0.0684415605289	0.0819055836561	7026	None
+Ulcerative colitis	NHGRI GWAS Catalog		2	187	0.0696513746076	0.0819055836561	999|6364	None
+Charcot-Marie-Tooth disease (CMT)	KEGG DISEASE	H00264	1	31	0.070570435918	0.0819055836561	10397	http://www.genome.jp/dbget-bin/www_bget?H00264
+Other immune system diseases	KEGG DISEASE		1	31	0.070570435918	0.0819055836561	114548	None
+Cancers of soft tissues and bone	KEGG DISEASE		1	31	0.070570435918	0.0819055836561	7157	None
+Cataract	KEGG DISEASE	H01202	1	31	0.070570435918	0.0819055836561	1410	http://www.genome.jp/dbget-bin/www_bget?H01202
+Dialysis-related mortality	NHGRI GWAS Catalog		1	31	0.070570435918	0.0819055836561	3569	None
+Testicular germ cell tumor	NHGRI GWAS Catalog		1	31	0.070570435918	0.0819055836561	7015	None
+Heart rate	NHGRI GWAS Catalog		1	33	0.0748137622229	0.0863829007109	5274	None
+Obesity-related traits	NHGRI GWAS Catalog		4	696	0.0766629393875	0.0879179824286	7291|57144|650|7099	None
+Coronary artery disease	NHGRI GWAS Catalog		1	34	0.076928234625	0.0879179824286	6387	None
+Urate levels in lean individuals	NHGRI GWAS Catalog		1	36	0.0811428514668	0.0922639529369	2043	None
+Nickel levels	NHGRI GWAS Catalog		1	40	0.0895150716241	0.101269575979	5747	None
+Systolic blood pressure	NHGRI GWAS Catalog		1	48	0.106033824728	0.11935465698	182	None
+Prostate cancer (gene x gene interaction)	NHGRI GWAS Catalog		1	49	0.108077715034	0.121047040838	7026	None
+Diastolic blood pressure	NHGRI GWAS Catalog		1	50	0.110116983593	0.122717434452	182	None
+Mean platelet volume	NHGRI GWAS Catalog		1	55	0.120244361123	0.132033023978	2149	None
+Thiazide-induced adverse metabolic effects in hypertensive patients	NHGRI GWAS Catalog		1	55	0.120244361123	0.132033023978	9420	None
+Verbal declarative memory	NHGRI GWAS Catalog		1	55	0.120244361123	0.132033023978	9420	None
+Reproductive system disease	KEGG DISEASE		1	57	0.124263319882	0.135121279872	8091	None
+Reproductive system diseases	KEGG DISEASE		1	57	0.124263319882	0.135121279872	8091	None
+Copper levels	NHGRI GWAS Catalog		1	65	0.14015837618	0.151668967461	650	None
+Dental caries	NHGRI GWAS Catalog		1	66	0.142125086945	0.153057785941	4092	None
+Waist-to-hip ratio adjusted for body mass index	NHGRI GWAS Catalog		1	68	0.146045171054	0.156526881895	650	None
+Chronic kidney disease	NHGRI GWAS Catalog		1	69	0.147998564283	0.157865135235	58497	None
+Muscular diseases	KEGG DISEASE		1	74	0.157699437888	0.166625821165	1410	None
+Platelet count	NHGRI GWAS Catalog		1	78	0.165381415372	0.17392223964	2149	None
+Kidney diseases	KEGG DISEASE		1	79	0.167291057613	0.174293939094	2335	None
+Urinary system diseases	KEGG DISEASE		1	79	0.167291057613	0.174293939094	2335	None
+Systemic lupus erythematosus	NHGRI GWAS Catalog		1	89	0.186151389723	0.193045885639	7301	None
+LDL cholesterol	NHGRI GWAS Catalog		1	106	0.217249143541	0.224257180429	2335	None
+HDL cholesterol	NHGRI GWAS Catalog		1	136	0.269286866457	0.274182991302	207	None
+Amyotrophic lateral sclerosis (sporadic)	NHGRI GWAS Catalog		1	162	0.311608427879	0.315838406538	7852	None
+Acne (severe)	NHGRI GWAS Catalog		1	185	0.347020150347	0.350146458008	378938	None
+Congenital disorders of metabolism	KEGG DISEASE		1	592	0.74483621715	0.74483621715	7157	None
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+
+--------------------
