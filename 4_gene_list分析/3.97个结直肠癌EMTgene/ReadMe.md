@@ -19,6 +19,6 @@
             stage1:(115, 119, 138, 154, 022, 037, 077, 032, 042, 059, 064, 084, 090)
             stage4:(104, 111, 113, 118, 011, 128, 134, 144, 145, 152, 153, 024, 048, 081, 121, 131, 149, 019, 035, 079)
         
-        Test 9: Cancer, homo, Stage 1 vs Stage 4, sample 2 : 3 
+        Test 9: Cancer, homo, Stage 1 vs Stage 4, sample 6 : 7 
         Test 10: stage from 2-4, metastatic recurrence or stage 4 (LCM, homo) (9 Pair), Patient
                       
